@@ -332,10 +332,6 @@ The **Dasha system** is a time-period technique unique to Vedic astrology, enabl
 
 ---
 
-Continuing from where we left off, we’ll delve into **Rahu and Ketu**, their unique influences, and then move on to **Yogas** (planetary combinations), **transits**, and how to analyze a full birth chart in Vedic astrology.
-
----
-
 ### Part 9: Rahu and Ketu (The Lunar Nodes)
 
 **Rahu** and **Ketu**, the North and South Nodes of the Moon, are critical points in Vedic astrology, representing karmic influences and spiritual lessons. Unlike planets, they are mathematical points that signify the intersection of the orbits of the Sun and Moon. Their positions and aspects can significantly affect an individual’s life path, desires, and spiritual growth.
