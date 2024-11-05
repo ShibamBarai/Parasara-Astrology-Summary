@@ -770,10 +770,6 @@ Ketu signifies **spirituality, detachment, past life karma, and liberation**. Un
 
 ---
 
-Absolutely! Let’s delve into the detailed effects of **all planets in retrograde** and then move on to **all planets in combust** state. These states are essential aspects in astrology, each with its unique influences and interpretive complexities.
-
----
-
 ### Retrograde Planets
 
 When a planet is in **retrograde**, it appears to move backward in the sky from our perspective on Earth. In Vedic astrology, retrograde planets are considered more intense, introverted, and sometimes bring unresolved karmic influences from past lives. Retrograde motion often makes the energies of the planet more powerful and can lead to delayed but transformative outcomes in the areas the planet governs.
