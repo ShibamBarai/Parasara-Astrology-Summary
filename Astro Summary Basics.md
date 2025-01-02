@@ -223,34 +223,18 @@ The **12 houses** (*bhavas*) represent different aspects of life and are fundame
 
 In Vedic astrology, an **aspect** (*drishti*) refers to the influence one planet has on another planet or house. Unlike Western astrology, where each planet aspects the planet opposite it (180 degrees), Vedic astrology introduces unique aspects, particularly with Mars, Jupiter, and Saturn, known as **special aspects**. The type of aspect and its intensity depend on the aspecting planet, providing insight into how different areas of life may interact or influence each other.
 
-#### Types of Aspects
 
-1. **General Aspects**:
-   - **Full Aspect (7th House)**: Every planet aspects the 7th house from itself (180 degrees away). This is the general aspect and usually represents relationships and external influences.
-   - **Intensity**: The 7th house aspect is the strongest for all planets, meaning any planet in a house or sign will strongly influence the house or sign 180 degrees away.
-
-2. **Special Aspects of Specific Planets**:
-   - **Mars (Mangal)**: Mars casts a strong aspect not only on the 7th house but also on the **4th** and **8th houses** from its position. 
-     - **4th Aspect**: Brings Mars’s intense, direct energy to issues related to home, stability, and internal matters, which can sometimes disrupt peace in these areas.
-     - **8th Aspect**: Indicates transformation, desire for control, and sometimes hidden struggles in life areas where Mars influences. It is associated with sudden changes, power dynamics, and deeper challenges.
-   
-   - **Jupiter (Guru)**: Jupiter has special aspects on the **5th** and **9th houses** from its position, in addition to the 7th.
-     - **5th Aspect**: Brings wisdom, teaching, and guidance to areas related to creativity, children, and intellect.
-     - **9th Aspect**: Reflects blessings, spiritual insight, and protection on the matters of higher learning, long journeys, and faith.
-     - **Why Important**: Jupiter’s aspects are considered beneficial (*shubha drishti*), bringing positivity, expansion, and protection wherever it aspects.
-
-   - **Saturn (Shani)**: Saturn has special aspects on the **3rd** and **10th houses** from its position, apart from the 7th.
-     - **3rd Aspect**: Brings discipline, obstacles, and effort to matters related to communication, courage, and initiative.
-     - **10th Aspect**: Influences career and societal status, introducing hard work, challenges, and a need for patience and endurance in one’s professional life.
-     - **Why Important**: Saturn’s aspects are often restrictive (*tamasik drishti*), indicating areas that require caution, discipline, or lessons in responsibility.
-
-3. **Rahu and Ketu (Nodes of the Moon)**:
-   - **Rahu**: Known to cast a full aspect (7th house) but is often considered unpredictable in influence, bringing intensity and material desires to the aspected area.
-   - **Ketu**: Similar to Rahu, Ketu’s aspects can cause detachment, spiritual insight, or instability in the areas it aspects.
-
-#### Interpretive Role of Aspects
-
-Aspects play a critical role in **chart interpretation**, highlighting where different areas of life overlap or conflict. For example, if **Mars aspects the Moon**, it can create emotional intensity, courage, and assertiveness but also potentially lead to impulsive emotional reactions. Conversely, **Jupiter aspecting Venus** may enhance love, harmony, and a sense of joy in relationships.
+| **Planet**   | **Standard Aspect** | **Special Aspects**            | **Notes**                                                                 |
+|--------------|---------------------|--------------------------------|---------------------------------------------------------------------------|
+| **Sun**      | 7th house          | None                           | Sun aspects the house directly opposite (7th house).                     |
+| **Moon**     | 7th house          | None                           | Moon aspects the house directly opposite (7th house).                    |
+| **Mars**     | 7th house          | 4th & 8th house               | Aggressive energy. Can influence emotional stability (4th) and obstacles (8th). |
+| **Mercury**  | 7th house          | None                           | Balanced, intellectual communication aspect.                             |
+| **Jupiter**  | 7th house          | 5th & 9th house               | Blessings, wisdom, and knowledge expansion in these houses.              |
+| **Venus**    | 7th house          | None                           | Harmonious, relationship-oriented aspect.                                |
+| **Saturn**   | 7th house          | 3rd & 10th house              | Discipline and delays in efforts (3rd) and career (10th).                |
+| **Rahu**     | 7th house          | 5th & 9th house               | Amplifies desires and unconventional approaches.                         |
+| **Ketu**     | 7th house          | 5th & 9th house               | Spiritual detachment and introspection in these houses.                  |
 
 ---
 
